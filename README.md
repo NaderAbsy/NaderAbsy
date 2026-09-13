@@ -21,7 +21,6 @@ cause before escalating saves engineers hours they'd otherwise spend chasing a p
 - **Business analysis** — requirements gathering, stakeholder management, process mapping, functional documentation
 - **Quality & delivery** — UAT, test case design, defect triage, root cause analysis, compliance testing
 - **Data** — SQL, Power BI, Snowflake; cleaning and validating the data decisions get made from
-- **Building** — web applications, REST APIs, and automation with n8n
 
 ## 💼 Currently
 
