@@ -1,5 +1,7 @@
 Hi there 👋, I’m Nader Absy
 
+🌐 **[naderabsy.com](https://naderabsy.com)** · [LinkedIn](https://www.linkedin.com/in/nader-absy-592888279/) · 📍 Amman, Jordan
+
 I’m a Product Owner specializing in Cards & Payments, with a Computer Science background and experience translating complex business requirements into scalable financial products. My work combines business analysis, product ownership, and software engineering to build solutions that deliver real value.
 
 Previously, I worked as a Business Data Analysis Intern at Samsung Electronics Levant, where I supported business transformation initiatives through data analysis, stakeholder collaboration, process improvement, and User Acceptance Testing (UAT).
@@ -17,7 +19,7 @@ Today, I focus on the cards domain, working on payment products and card lifecyc
 
 🔬 Research
 
-I’m also a published researcher and co-author of a peer-reviewed paper in Frontiers in Psychiatry (Q1 Scopus-indexed), where I contributed to survey design, data collection, statistical analysis, and interpreting the relationship between anxiety and attitudes toward Generative AI in healthcare.
+I’m also a published researcher and co-author of a peer-reviewed paper in Frontiers in Psychiatry (Q1 Scopus-indexed): *[Sociodemographic factors, anxiety and attitudes toward generative artificial intelligence among nurses](https://doi.org/10.3389/fpsyt.2026.1779382)*. I contributed to survey design, data collection, statistical analysis, and interpreting how anxiety shapes nurses’ attitudes toward Generative AI in healthcare.
 
 🛠 Tech Stack
 
@@ -59,3 +61,5 @@ Tools
 * Software Engineering
 
 Building products where business strategy meets engineering excellence.
+
+📄 Full background, experience and CV → **[naderabsy.com](https://naderabsy.com)**
