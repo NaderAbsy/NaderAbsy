@@ -1,65 +1,77 @@
-Hi there 👋, I’m Nader Absy
+# Hi, I'm Nader Absy 👋
+
+**Product Owner & Business Analyst** — I decide what gets built next, and why.
 
 🌐 **[naderabsy.com](https://naderabsy.com)** · [LinkedIn](https://www.linkedin.com/in/nader-absy-592888279/) · 📍 Amman, Jordan
 
-I’m a Product Owner specializing in Cards & Payments, with a Computer Science background and experience translating complex business requirements into scalable financial products. My work combines business analysis, product ownership, and software engineering to build solutions that deliver real value.
+---
 
-Previously, I worked as a Business Data Analysis Intern at Samsung Electronics Levant, where I supported business transformation initiatives through data analysis, stakeholder collaboration, process improvement, and User Acceptance Testing (UAT).
+Most of my work is product ownership: running requirement sessions with stakeholders, writing the user
+stories and acceptance criteria engineers build from, protecting scope mid-sprint, and testing what comes
+back before it reaches production. I work in payments and card products, where requirements arrive carrying
+security and regulatory weight — but the discipline travels to any product.
 
-Today, I focus on the cards domain, working on payment products and card lifecycle features while collaborating with developers, QA engineers, and business stakeholders to deliver secure, user-centric financial solutions.
+A good deal of the job is investigative. When something breaks, the useful question is rarely *"is this
+broken?"* but *"is this the product, the configuration, the data, or the environment?"* Getting to root
+cause before escalating saves engineers hours they'd otherwise spend chasing a problem that was never theirs.
 
-🚀 What I Do
+## 🚀 What I do
 
-* 💳 Product Owner specializing in Cards & Payments
-* 📋 Define product requirements, write user stories, and manage delivery in Agile environments
-* 🤝 Bridge the gap between business stakeholders and engineering teams
-* 📊 Business Analysis, process optimization, and UAT
-* 💻 Build modern web applications and APIs
-* 🤖 Explore AI and automation to improve products and workflows
+- **Product ownership** — backlog ownership and prioritisation, user stories, acceptance criteria, Agile/Scrum delivery
+- **Business analysis** — requirements gathering, stakeholder management, process mapping, functional documentation
+- **Quality & delivery** — UAT, test case design, defect triage, root cause analysis, compliance testing
+- **Data** — SQL, Power BI, Snowflake; cleaning and validating the data decisions get made from
+- **Building** — web applications, REST APIs, and automation with n8n
 
-🔬 Research
+## 💼 Currently
 
-I’m also a published researcher and co-author of a peer-reviewed paper in Frontiers in Psychiatry (Q1 Scopus-indexed): *[Sociodemographic factors, anxiety and attitudes toward generative artificial intelligence among nurses](https://doi.org/10.3389/fpsyt.2026.1779382)*. I contributed to survey design, data collection, statistical analysis, and interpreting how anxiety shapes nurses’ attitudes toward Generative AI in healthcare.
+**Product Owner & Business Analyst @ [Staq](https://staq.io)** — backlog ownership for a payments platform,
+bridging business stakeholders and engineering, and running UAT across a microservices estate.
 
-🛠 Tech Stack
+**Freelance — IEEE-affiliated academic conferences** — sole developer and administrator for seven conference
+and workshop websites, covering server administration, front-end work, accessibility and author-facing
+incident response.
 
-Languages
+**Previously:** Business Data Analysis Intern @ Samsung Electronics Levant — MCS datasets, a sales
+organisation restructure on N-ERP, and UAT through to implementation.
 
-* C#
-* JavaScript
-* Python
-* Java
-* SQL
+## 🔬 Research
 
-Frameworks
+Co-author of a peer-reviewed paper in *Frontiers in Psychiatry* (Q1, Scopus-indexed):
 
-* ASP.NET Core Web API
-* React
-* Next.js
-* Node.js
-* Tailwind CSS
+> **[Sociodemographic factors, anxiety and attitudes toward generative artificial intelligence among nurses](https://doi.org/10.3389/fpsyt.2026.1779382)**
+> Alnazly E., Absy N., Absy N. — April 2026 · DOI [10.3389/fpsyt.2026.1779382](https://doi.org/10.3389/fpsyt.2026.1779382)
 
-Tools
+I contributed to survey design, data collection and the statistical analysis identifying what drives nurses'
+acceptance of Generative AI in clinical settings, then helped translate the findings into training and policy
+recommendations.
 
-* Jira
-* Git & GitHub
-* Postman
-* Power BI
-* Snowflake
-* SAP
-* MySQL
-* n8n
+## 🛠 Tech
 
-🌱 Interests
+**Languages** `C#` `JavaScript` `Python` `Java` `SQL` `PHP`
 
-* Cards & Payments
-* FinTech
-* Product Management
-* Business Analysis
-* Artificial Intelligence
-* System Design
-* Software Engineering
+**Frameworks** `ASP.NET Core` `React` `Next.js` `Node.js` `Tailwind CSS` `Bootstrap`
 
-Building products where business strategy meets engineering excellence.
+**Data** `MySQL` `PostgreSQL` `Power BI` `Snowflake`
 
-📄 Full background, experience and CV → **[naderabsy.com](https://naderabsy.com)**
+**Tools** `Jira` `Git` `Docker` `Postman` `SAP` `n8n` `Linux/cPanel`
+
+## 📌 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[DocSera](https://github.com/NaderAbsy/DocSera)** | Medical appointment platform with an AI assistant for bookings, enquiries and reminders, plus role-based portals for patients, clinicians and admins | C#, Next.js, MySQL, Tailwind, n8n |
+| **[ExploreXpress](https://github.com/NaderAbsy/ExploreXpress)** | Travel planning and booking application built on the MVC pattern | C#, JavaScript |
+| **[War of Word](https://github.com/NaderAbsy/War-of-Word)** | Wordle-inspired game with multiple categories, difficulty scaling and hints | Java |
+| **[Weather App](https://github.com/NaderAbsy/Web-Weather-App)** | Live forecasts from the OpenWeather API with Firebase auth and Firestore | JavaScript, Firebase |
+| **[Portfolio](https://github.com/NaderAbsy/Portfolio)** | This site — [naderabsy.com](https://naderabsy.com) | HTML, CSS, JS |
+
+## 🌱 Interested in
+
+Product management · FinTech · cards & payments · business analysis · system design · AI and automation
+
+---
+
+*Building products where business strategy meets engineering.*
+
+📄 Full background and CV → **[naderabsy.com](https://naderabsy.com)**
