@@ -21,12 +21,15 @@ cause before escalating saves engineers hours they'd otherwise spend chasing a p
 **[Sprintwise](https://sprintwise-omega.vercel.app)** answers two questions every sprint review should ask:
 *were the stories ready, and did we stick to the plan?*
 
-- Nine fixed rules score each user story out of 100, with a plain-English reason for every point lost
-- Lock the day-one sprint as a baseline, upload snapshots as it runs, and see scope added and removed,
-  churn and completion on one printable report
-- Rules set the score, not AI, so the same story always scores the same
+- Nine fixed rules score each user story out of 100, with a plain-English reason for every point lost,
+  and flag AI-drafted stories that read well but aren't ready to start
+- Lock the day-one sprint as a baseline and see scope added and removed, churn, completion and why scope
+  changed; plan against the team's real velocity and watch trends across sprints
+- One-page sprint report, shareable with stakeholders by link
+- Connects to Jira Cloud both ways (import, sync, send edits back), or works from a CSV
+- Rules set the score, not AI, and no AI reads your tickets
 
-I ran it as a product: requirements and backlog, a logged decision record, and a tested v1 release.
+I ran it as a product: requirements and backlog, a logged decision record, and versioned, tested releases.
 **[Try the demo](https://sprintwise-omega.vercel.app/demo)** (no account needed) ·
 [source](https://github.com/NaderAbsy/sprintwise)
 
@@ -71,13 +74,13 @@ and policy recommendations.
 
 **Testing & delivery** `Playwright` `Vitest` `GitHub Actions` `Vercel` `Netlify` `Docker`
 
-**Tools** `Jira` `Git` `Postman` `SAP` `n8n` `Linux/cPanel`
+**Tools** `Jira` `Jira Cloud API` `Git` `Postman` `SAP` `n8n` `Linux/cPanel`
 
 ## 📌 Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Sprintwise](https://github.com/NaderAbsy/sprintwise)** · [live](https://sprintwise-omega.vercel.app) | Scores user stories for sprint readiness and measures scope change against a locked baseline | Next.js, TypeScript, PostgreSQL, Prisma |
+| **[Sprintwise](https://github.com/NaderAbsy/sprintwise)** · [live](https://sprintwise-omega.vercel.app) | Scores user stories for sprint readiness, measures scope change against a locked baseline, and syncs both ways with Jira Cloud | Next.js, TypeScript, PostgreSQL, Prisma, Jira Cloud API |
 | **[DocSera](https://github.com/NaderAbsy/DocSera)** | Clinic appointment platform with an AI chatbot for questions and bookings, automated reminders, and portals for patients, clinicians and admins | C#, Next.js, MySQL, Tailwind, n8n |
 | **[Skyline Weather](https://github.com/NaderAbsy/Web-Weather-App)** · [live](https://naderabsy-weather.netlify.app) | Weather app with a scrubbable 24-hour chart, air quality and a 5-day forecast; the API key stays server-side | JavaScript, SVG, Netlify Functions |
 | **[War of Word](https://github.com/NaderAbsy/War-of-Word)** | Wordle-style game with categories, difficulty levels and hints, built on hand-written data structures | Java, Swing |
