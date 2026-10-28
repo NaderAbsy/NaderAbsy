@@ -18,15 +18,16 @@ cause before escalating saves engineers hours they'd otherwise spend chasing a p
 
 ## ✨ Latest: Sprintwise
 
-**[Sprintwise](https://sprintwise.app)** answers two questions every sprint review should ask:
-*were the stories ready, and did we stick to the plan?*
+**[Sprintwise](https://sprintwise.app)** is a free tool for Product Owners and Scrum teams that answers two questions
+every sprint review should ask: *were the stories ready, and did we stick to the plan?*
 
 - Nine fixed rules score each user story out of 100, with a plain-English reason for every point lost,
   and flag AI-drafted stories that read well but aren't ready to start
 - Lock the day-one sprint as a baseline and see scope added and removed, churn, completion and why scope
   changed; plan against the team's real velocity and watch trends across sprints
 - One-page sprint report, shareable with stakeholders by link
-- Connects to Jira Cloud both ways (import, sync, send edits back), or works from a CSV
+- Connects to Jira Cloud both ways (import, sync nightly for running sprints, send edits back) without overwriting a
+  teammate's newer change, or works from a CSV
 - Rules set the score, not AI, and no AI reads your tickets
 
 I ran it as a product: requirements and backlog, a logged decision record, and versioned, tested releases.
